@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m/TmZHxaa3arqkOtFV0j85AARhZ2HzDq8tA+wL1xWYI=",
+  "Source": "ExcelCheckService",
+  "BasePath": "_content/ExcelCheckService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
