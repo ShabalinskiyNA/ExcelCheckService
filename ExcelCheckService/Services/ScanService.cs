@@ -14,19 +14,19 @@ namespace ExcelCheckService.Services
         {
             _fileHandler = new FileHandler();
         }
-        public CompareResponse Scan(IFormFile patternFile, IFormFile checkFile, string settings)
+        public CompareResponse Scan(ExcelScanRequest excelScanRequest)
         {
             CompareSettings compareSettings;
-            if (settings != null)
+            if (excelScanRequest.compareSettings != null)
             {
-                compareSettings = JsonConvert.DeserializeObject<CompareSettings>(settings);
+                compareSettings = JsonConvert.DeserializeObject<CompareSettings>(excelScanRequest.compareSettings);
             }
             else 
             { 
                 compareSettings = null; 
             }
 
-            SavedFilesInfo savedFiles = _fileHandler.SaveFiles(patternFile, checkFile);
+            SavedFilesInfo savedFiles = _fileHandler.SaveFiles(excelScanRequest.patternFile, excelScanRequest.checkFile);
             if(savedFiles.Error != "")
             {
                 return new CompareResponse()

@@ -18,20 +18,18 @@ namespace ExcelCheckService.Controllers
 
         [HttpPost("upload")]
         [Consumes("multipart/form-data")]
-        [ApiExplorerSettings(IgnoreApi = true)]
-        public async Task<IActionResult> LoadFiles(
-            [FromForm] IFormFile patternFile, 
-            [FromForm] IFormFile checkFile, 
-            [FromForm] string? settings)
+        public async Task<IActionResult> LoadFiles([FromForm] ExcelScanRequest excelScanRequest)
         {
-            if (patternFile == null) return BadRequest(new { message = "Template file missing" });
-            if (checkFile == null) return BadRequest(new { message = "The file being checked is missing" });
+            if (excelScanRequest.patternFile == null) return BadRequest(new { message = "Template file missing" });
+            if (excelScanRequest.checkFile == null) return BadRequest(new { message = "The file being checked is missing" });
 
 
-            CompareResponse response = _scanService.Scan(patternFile, checkFile, settings);
+            CompareResponse response = _scanService.Scan(excelScanRequest);
 
             return Ok(response);
         }
 
     }
 }
+
+

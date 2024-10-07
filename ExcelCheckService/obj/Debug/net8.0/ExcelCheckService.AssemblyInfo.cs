@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExcelCheckService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f16b418adf3538dcbea09ddd4422ca517502ff7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExcelCheckService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExcelCheckService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -35,3 +35,4 @@ D:\AISKNDprjkts\ExcelCheckService\ExcelCheckService\obj\Debug\net8.0\refint\Exce
 D:\AISKNDprjkts\ExcelCheckService\ExcelCheckService\obj\Debug\net8.0\ExcelCheckService.pdb
 D:\AISKNDprjkts\ExcelCheckService\ExcelCheckService\obj\Debug\net8.0\ExcelCheckService.genruntimeconfig.cache
 D:\AISKNDprjkts\ExcelCheckService\ExcelCheckService\obj\Debug\net8.0\ref\ExcelCheckService.dll
+D:\AISKNDprjkts\ExcelCheckService\ExcelCheckService\obj\Debug\net8.0\ExcelCheckService.sourcelink.json

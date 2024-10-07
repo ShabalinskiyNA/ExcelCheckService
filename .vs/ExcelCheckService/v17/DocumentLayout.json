@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\AISKNDprjkts\\ExcelCheckService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96A51610-A6ED-4CF3-8427-839AABF8BE06}|ExcelCheckService\\ExcelCheckService.csproj|d:\\aiskndprjkts\\excelcheckservice\\excelcheckservice\\services\\scanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96A51610-A6ED-4CF3-8427-839AABF8BE06}|ExcelCheckService\\ExcelCheckService.csproj|solutionrelative:excelcheckservice\\services\\scanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96A51610-A6ED-4CF3-8427-839AABF8BE06}|ExcelCheckService\\ExcelCheckService.csproj|d:\\aiskndprjkts\\excelcheckservice\\excelcheckservice\\models\\comparesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A51610-A6ED-4CF3-8427-839AABF8BE06}|ExcelCheckService\\ExcelCheckService.csproj|solutionrelative:excelcheckservice\\models\\comparesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96A51610-A6ED-4CF3-8427-839AABF8BE06}|ExcelCheckService\\ExcelCheckService.csproj|d:\\aiskndprjkts\\excelcheckservice\\excelcheckservice\\controllers\\excelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96A51610-A6ED-4CF3-8427-839AABF8BE06}|ExcelCheckService\\ExcelCheckService.csproj|solutionrelative:excelcheckservice\\controllers\\excelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{96A51610-A6ED-4CF3-8427-839AABF8BE06}|ExcelCheckService\\ExcelCheckService.csproj|d:\\aiskndprjkts\\excelcheckservice\\excelcheckservice\\services\\scanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A51610-A6ED-4CF3-8427-839AABF8BE06}|ExcelCheckService\\ExcelCheckService.csproj|solutionrelative:excelcheckservice\\services\\scanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A51610-A6ED-4CF3-8427-839AABF8BE06}|ExcelCheckService\\ExcelCheckService.csproj|d:\\aiskndprjkts\\excelcheckservice\\excelcheckservice\\models\\excelscanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A51610-A6ED-4CF3-8427-839AABF8BE06}|ExcelCheckService\\ExcelCheckService.csproj|solutionrelative:excelcheckservice\\models\\excelscanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{96A51610-A6ED-4CF3-8427-839AABF8BE06}|ExcelCheckService\\ExcelCheckService.csproj|d:\\aiskndprjkts\\excelcheckservice\\excelcheckservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96A51610-A6ED-4CF3-8427-839AABF8BE06}|ExcelCheckService\\ExcelCheckService.csproj|solutionrelative:excelcheckservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96A51610-A6ED-4CF3-8427-839AABF8BE06}|ExcelCheckService\\ExcelCheckService.csproj|d:\\aiskndprjkts\\excelcheckservice\\excelcheckservice\\excelcheckservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{96A51610-A6ED-4CF3-8427-839AABF8BE06}|ExcelCheckService\\ExcelCheckService.csproj|solutionrelative:excelcheckservice\\excelcheckservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96A51610-A6ED-4CF3-8427-839AABF8BE06}|ExcelCheckService\\ExcelCheckService.csproj|d:\\aiskndprjkts\\excelcheckservice\\excelcheckservice\\services\\fileuploadoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96A51610-A6ED-4CF3-8427-839AABF8BE06}|ExcelCheckService\\ExcelCheckService.csproj|solutionrelative:excelcheckservice\\services\\fileuploadoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,39 +38,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FileUploadOperation.cs",
-              "DocumentMoniker": "D:\\AISKNDprjkts\\ExcelCheckService\\ExcelCheckService\\Services\\FileUploadOperation.cs",
-              "RelativeDocumentMoniker": "ExcelCheckService\\Services\\FileUploadOperation.cs",
-              "ToolTip": "D:\\AISKNDprjkts\\ExcelCheckService\\ExcelCheckService\\Services\\FileUploadOperation.cs",
-              "RelativeToolTip": "ExcelCheckService\\Services\\FileUploadOperation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T23:25:14.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ExcelCheckService.csproj",
-              "DocumentMoniker": "D:\\AISKNDprjkts\\ExcelCheckService\\ExcelCheckService\\ExcelCheckService.csproj",
-              "RelativeDocumentMoniker": "ExcelCheckService\\ExcelCheckService.csproj",
-              "ToolTip": "D:\\AISKNDprjkts\\ExcelCheckService\\ExcelCheckService\\ExcelCheckService.csproj",
-              "RelativeToolTip": "ExcelCheckService\\ExcelCheckService.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-03T23:14:13.271Z",
+              "Title": "ExcelScanRequest.cs",
+              "DocumentMoniker": "D:\\AISKNDprjkts\\ExcelCheckService\\ExcelCheckService\\Models\\ExcelScanRequest.cs",
+              "RelativeDocumentMoniker": "ExcelCheckService\\Models\\ExcelScanRequest.cs",
+              "ToolTip": "D:\\AISKNDprjkts\\ExcelCheckService\\ExcelCheckService\\Models\\ExcelScanRequest.cs",
+              "RelativeToolTip": "ExcelCheckService\\Models\\ExcelScanRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:38:08.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "CompareSettings.cs",
+              "DocumentMoniker": "D:\\AISKNDprjkts\\ExcelCheckService\\ExcelCheckService\\Models\\CompareSettings.cs",
+              "RelativeDocumentMoniker": "ExcelCheckService\\Models\\CompareSettings.cs",
+              "ToolTip": "D:\\AISKNDprjkts\\ExcelCheckService\\ExcelCheckService\\Models\\CompareSettings.cs",
+              "RelativeToolTip": "ExcelCheckService\\Models\\CompareSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:45:19.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\AISKNDprjkts\\ExcelCheckService\\ExcelCheckService\\Program.cs",
               "RelativeDocumentMoniker": "ExcelCheckService\\Program.cs",
               "ToolTip": "D:\\AISKNDprjkts\\ExcelCheckService\\ExcelCheckService\\Program.cs",
               "RelativeToolTip": "ExcelCheckService\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAxwB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T22:51:14.255Z",
               "EditorCaption": ""
@@ -83,20 +83,20 @@
               "RelativeDocumentMoniker": "ExcelCheckService\\Controllers\\ExcelController.cs",
               "ToolTip": "D:\\AISKNDprjkts\\ExcelCheckService\\ExcelCheckService\\Controllers\\ExcelController.cs",
               "RelativeToolTip": "ExcelCheckService\\Controllers\\ExcelController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAD4vxMAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T19:21:46.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ScanService.cs",
               "DocumentMoniker": "D:\\AISKNDprjkts\\ExcelCheckService\\ExcelCheckService\\Services\\ScanService.cs",
               "RelativeDocumentMoniker": "ExcelCheckService\\Services\\ScanService.cs",
               "ToolTip": "D:\\AISKNDprjkts\\ExcelCheckService\\ExcelCheckService\\Services\\ScanService.cs",
               "RelativeToolTip": "ExcelCheckService\\Services\\ScanService.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAIwAEAAAAWAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABIAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T15:33:49.809Z",
               "EditorCaption": ""

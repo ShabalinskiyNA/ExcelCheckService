@@ -2,8 +2,8 @@
 {
     public class CompareSettings
     {
-        public Cell[] ignoreCells;
-        public Cell[] checkOnlyCells;
+        public Cell[]? ignoreCells { get; set; }
+        public Cell[]? checkOnlyCells { get; set; }
     }
     public class Cell
     {
